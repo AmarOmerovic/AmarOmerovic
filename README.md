@@ -5,7 +5,7 @@ Learning to become a Software/Web Developer
 -----------------
 
 * 🌍  I'm based in Tuzla
-* ✉️  You can contact me at [amaromerovic473@gmail.com](mailto:amaromerovic473@gmail.com)
+* ✉️  You can contact me at [amaromerovic473@gmail.com](mailto:amaromerovic70@gmail.com)
 * 🧠  I'm learning Android development
 * 🤝  I'm open for Internship positions
 
