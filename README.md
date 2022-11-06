@@ -1,10 +1,10 @@
 Hi 👋 My name is Amar Omerović
 ==============================
 
-Software Engineer Student
+Student Software Engineer
 -------------------------
 
-Programming is my passion, and Mobile seems to be the most appealing to me. I work eﬀectively in groups and handle well in unfamiliar situations. I enjoy new challenges and am willing to do everything in my power to overcome them.
+Programming is my passion, and mobile seems to be the most appealing to me, but things can change. I work effectively in groups and handle well in unfamiliar situations. I enjoy new challenges and am willing to do everything in my power to overcome them.
 
 * 🌍  I'm based in Tuzla
 * ✉️  You can contact me at [amaromerovic70@gmail.com](mailto:amaromerovic70@gmail.com)
