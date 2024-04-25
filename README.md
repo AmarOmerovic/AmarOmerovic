@@ -1,4 +1,4 @@
-Hi 👋 My name is Amar Omerović
+Hi 👋 I'm Amar
 ==============================
 
 Mobile Software Engineer
